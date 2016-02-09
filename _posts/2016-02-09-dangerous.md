@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-09T22:28:04.361Z'
+datePublished: '2016-02-09T22:42:09.742Z'
 publisher:
   domain: ''
   name: ''
 title: Dangerous
-dateModified: '2016-02-09T22:27:48.966Z'
+dateModified: '2016-02-09T22:36:33.684Z'
 sourcePath: _posts/2016-02-09-dangerous.md
 published: true
 inFeed: true
