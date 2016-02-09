@@ -1,0 +1,14 @@
+layout_spectrum: 0.3711063
+color:
+  saturation: 0.3388829
+  lightness: 0.5032223
+  brandStrength: 0
+  brandColors:
+    - '#150C18'
+    - '#FCFDFB'
+    - '#911716'
+    - '#A3A292'
+    - '#FA3132'
+  rhythmicContrast: 1
+typography_spectrum: 0.4752954
+name: Darius
