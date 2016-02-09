@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Darius]]></title>
         <description><![CDATA[Darius]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/darius/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 22:40:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 22:40:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/darius/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dangerous]]></title>
+            <description><![CDATA[<article><h1>Dangerous</h1><p>Posted by DomainGang on February 3, 2016, at 2:01 pm A domain investor from China has reported that three of his domains were stolen, and moved away from an eNom account. Manhua.com, 5678.com and 26266.com are now in the hands of cybercriminals, who stole them and transferred them to Dynadot.</p><img src="http://domaingang.com/wp-content/uploads/2015/04/stolen-domain-warning.gif"></article>]]></description>
+            <link>https://thegrid.ai/darius/dangerous/index.html</link>
+            <guid isPermaLink="false">69599e92-5503-4a8a-843a-3b84485e105b</guid>
+            <pubDate>Tue, 09 Feb 2016 22:28:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Looking good]]></title>
-            <description><![CDATA[<article><h1>Looking good</h1><p>The right Domain Name can change your life. Uniregistry can help you find it. See why so many people now choose Uniregistry as their Domain Name Registrar of choice.</p><img src="https://uniregistry.com/static/assets/img/rar-home/bg-print-app.png"></article>]]></description>
-            <link>undefinedlooking-good/index.html</link>
+            <description><![CDATA[<article><h1>Looking good</h1><p>The right Domain Name can change your life. Uniregistry can help you find it. See why so many people now choose Uniregistry as their Domain Name Registrar of choice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bc952d285ff9f5aa6fe2df5549bd9e8a2e95436.png"></article>]]></description>
+            <link>https://thegrid.ai/darius/looking-good/index.html</link>
             <guid isPermaLink="false">04829e41-e3a1-4460-b29b-423d8d652bd0</guid>
             <pubDate>Tue, 09 Feb 2016 22:25:56 GMT</pubDate>
         </item>
