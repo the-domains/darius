@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-09T22:25:56.664Z'
+datePublished: '2016-02-09T22:42:10.151Z'
 publisher:
   domain: ''
   name: ''
 title: Looking good
-dateModified: '2016-02-09T22:25:20.736Z'
+dateModified: '2016-02-09T22:36:28.112Z'
 sourcePath: _posts/2016-02-09-looking-good.md
 published: true
 inFeed: true
