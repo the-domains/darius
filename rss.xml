@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Darius]]></title>
+        <description><![CDATA[Darius]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 22:40:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Looking good]]></title>
+            <description><![CDATA[<article><h1>Looking good</h1><p>The right Domain Name can change your life. Uniregistry can help you find it. See why so many people now choose Uniregistry as their Domain Name Registrar of choice.</p><img src="https://uniregistry.com/static/assets/img/rar-home/bg-print-app.png"></article>]]></description>
+            <link>undefinedlooking-good/index.html</link>
+            <guid isPermaLink="false">04829e41-e3a1-4460-b29b-423d8d652bd0</guid>
+            <pubDate>Tue, 09 Feb 2016 22:25:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
